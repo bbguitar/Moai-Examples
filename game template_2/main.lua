@@ -1,0 +1,12 @@
+print ("Loading files")
+dofile( "init.lua")
+dofile( "resources.lua" )
+dofile( "splash.lua" )
+dofile ("menu.lua" )
+dofile( "game.lua" )
+
+init()
+load_resources()
+setup_game()
+start_game()
+--splash()

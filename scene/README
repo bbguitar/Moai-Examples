@@ -1,0 +1,14 @@
+A reference implementation for Scene Management under Moai SDK.
+
+Functions:
+push ("sceneName") -> Pushes a scene
+pop() -> Removes topmost scene
+swap ("sceneName") -> Removes topmost scene, then pushes scene
+
+Files:
+main.lua -> Window Setup and Init
+reflareLib.lua -> Our Misc helper functions
+start.lua -> first scene
+scene.lua -> scene management library
+demo.lua -> second scene
+display.lua -> Helper functions by Andrew Scott (https://github.com/anddrewscott/Moai-work/)

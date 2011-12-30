@@ -1,0 +1,10 @@
+print ("Loading files")
+--require( "init")
+--require( "resources" )
+--require( "splash" )
+--require( "menu" )
+--require( "game" )
+
+print ("Calling function")
+--init()
+--splash()

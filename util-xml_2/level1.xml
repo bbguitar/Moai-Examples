@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<actors>
+	<actor x1="3" y1="55" x2="33" y2="334" actorname="wall" density="0.5" image="wall.png" ></actor>
+	<actor x1="39393" y1="55" x2="33" y2="334" actorname="wall" density="0.5" image="wall.png" ></actor>
+	<actor x1="3" y1="55" x2="33" y2="34" actorname="wall" density="0.5" image="wall2.png" ></actor>
+</actors>
+

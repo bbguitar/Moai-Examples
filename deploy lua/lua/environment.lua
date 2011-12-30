@@ -1,0 +1,1 @@
+urlLua="http://www.innovationtech.co.uk/moai/test.lua"

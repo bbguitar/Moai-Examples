@@ -1,0 +1,16 @@
+<actors>
+
+<actor x1="0" y1="20" width="80" height="1" density="0.02" friction="0.3" restitution="0.1" actorname="Box" bodytype="Static" image="images/ground.png"></actor>
+<actor x1="0" y1="-20" width="80" height="1" density="0.02" friction="0.3" restitution="0.1" actorname="Box" bodytype="Static" image="images/ground.png"></actor>
+<actor x1="-20" y1="0" width="1" height="80" density="0.02" friction="0.3" restitution="0.1" actorname="Box" bodytype="Static" image="images/ground.png"></actor>
+<actor x1="20" y1="0" width="1" height="80" density="0.02" friction="0.3" restitution="0.1" actorname="Box" bodytype="Static" image="images/ground.png"></actor>
+
+
+
+<actor x1="0" y1="0" width="4" height="4" density="0.02" friction="0.3" restitution="0.1" actorname="Box" bodytype="Static" image="images/ground.png"></actor>
+
+
+
+<actor x1="0" y1="0" width="10" height="1" density="0.02" friction="0.3" restitution="0.1" actorname="Triangle" bodytype="Dynamic"></actor>
+</actors>
+

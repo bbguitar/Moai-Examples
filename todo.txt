@@ -1,0 +1,7 @@
+splashscreen -> penguin in jungle
+menu navigation
+particles
+	sparkle
+	flame
+score
+	launch as particle
